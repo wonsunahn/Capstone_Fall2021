@@ -4,72 +4,70 @@ title: CS 1900/1950 Presentation Schedule
 permalink: /internship_presentation_schedule
 ---
 
-Due to COVID-19 all presentations will be given over Zoom.
-
 Don't forget to send your instructor your slides by the previous day midnight.
 
 The presentations will be given in the order they are listed on the particular date.
 
-## WEEK 1 (Week of 22 JAN)
+## WEEK 1 (Week of 27 AUG)
 
 * Introduction on syllabus and course requirements
   
-## WEEK 2 (Week of 29 JAN)
+## WEEK 2 (Week of 3 SEP)
 
-* [Lecture on giving a good presentation]({{site.baseurl}}/lectures/lecture-on-presentations-internship.pdf)
+* [Lecture on giving a good presentation]()
 
-## WEEK 3 (Week of 5 FEB)
+## WEEK 3 (Week of 10 SEP)
   
-* Kevin Tsui
-* James Wood
+* [Lecture on assertion evidence format]()
 
-## WEEK 4 (Week of 12 FEB)
+## WEEK 4 (Week of 17 SEP)
 
-* [Lecture on assertion evidence format]({{site.baseurl}}/lectures/lecture-on-assertion-evidence-format.pptx)
-* Review presentations of Kevin and James
+* Student presentations
 
-## WEEK 5 (Week of 19 FEB)
+## WEEK 5 (Week of 24 SEP)
 
-* Michael Ebelle
+* Student presentations
 
-## WEEK 6 (Week of 26 FEB)
+## WEEK 6 (Week of 1 OCT)
 
-* Quinn Vierick
+* Student presentations
 
-## WEEK 7 (Week of 5 MAR)
+## WEEK 7 (Week of 8 OCT)
 
-* Anthony Gruber
+* Student presentations
 
-## WEEK 8 (Week of 12 MAR)
+## WEEK 8 (Week of 15 OCT)
 
-* Collin O'Connor
+* Fall Break (No Classes)
 
-## WEEK 9 (Week of 19 MAR)
+## WEEK 9 (Week of 22 OCT)
 
-* Natasha Kamtekar
-* Jacob Oaks
+* Student presentations
 
-## WEEK 10 (Week of 26 MAR)
+## WEEK 10 (Week of 29 OCT)
 
-* Colin Pietropaolo
-* Mike Geng
+* Student presentations
 
-## WEEK 11 (Week of 2 APR)
+## WEEK 11 (Week of 5 NOV)
 
-* Colton Lipchak
-* Cameron Beeche
+* Student presentations
 
-## WEEK 12 (Week of 9 APR)
+## WEEK 12 (Week of 12 NOV)
 
-* Liam White McShane
-* Lucas Leiby
+* Student presentations
 
-## WEEK 13 (Week of 16 APR)
+## WEEK 13 (Week of 19 NOV)
 
-* Matt Deible
-* Jasmine Brotemarkle
+* Student presentations
 
-## WEEK 14 (Week of 23 APR)
+## WEEK 14 (Week of 26 APR)
 
-* Julian Galbraith-Paul
-* Vibhu Kundeti
+* Thanksgivig Break (NO CLASS)
+
+## WEEK 15 (Week of 3 DEC)
+
+* Student presentations
+
+## WEEK 16 (Week of 10 DEC)
+
+* Student presentations
