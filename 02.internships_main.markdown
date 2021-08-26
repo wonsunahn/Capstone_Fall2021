@@ -40,7 +40,9 @@ emergency).
 * We will do a Doodle poll to decide on individual presentation dates at our first class (8/27).
    * [Link to Doodle Poll]() <- will go live some time during class on 8/27.
 
-* Each student is expected to present for **5-6 minutes**. Q&A will happen online over Microsoft Teams.
+* Each student is expected to present for **5-6 minutes**. Q&A will happen
+  online over TopHat.  There will be a folder in TopHat for each presenter, and
+under it, a Q&A discussion section.
 
 * Please review the [Lecture on Presentations] (to be linked) and the [Lecture on
   Assertion Evidence Format] (to be linked) before giving your presentation.  
