@@ -11,14 +11,15 @@ The presentations will be given in the order they are listed on the particular d
 ## WEEK 1 (Week of 27 AUG)
 
 * Introduction on syllabus and course requirements
+* [Lecture on giving a good presentation]()
   
 ## WEEK 2 (Week of 3 SEP)
 
-* [Lecture on giving a good presentation]()
+* [Lecture on assertion evidence format]()
 
 ## WEEK 3 (Week of 10 SEP)
   
-* [Lecture on assertion evidence format]()
+* Student presentations
 
 ## WEEK 4 (Week of 17 SEP)
 
