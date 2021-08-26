@@ -14,7 +14,7 @@ You must fulfill all of these responsibilities to get a satisfactory grade:
 
 1. Write a final paper.  See [Final paper organization](#final-paper-organization).
 
-1. Fill out peer reviews for each presentation (other than your own) on TopHat.  See [Peer review organization](#peer-review-organization)
+1. Fill out peer reviews for each presentation on TopHat.  See [Peer review organization](#peer-review-organization)
 
 1. (CS 1950 students only) send regular progress reports.  See [Progress report organization](#progress-report-organization).
 
