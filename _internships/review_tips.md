@@ -4,16 +4,6 @@ title: Review Tips
 permalink: /review_tips/
 ---
 
-## Review Requirements
-
-A review must contain at minimum contain the following to be complete:
-
-1. Scores on all categories.
-
-1. Summary of project showing you paid attention.
-
-1. One or more constructive comments that support your scoring.
-
 ## What is good feedback?
 
 Feedback is most useful when:
@@ -26,22 +16,19 @@ Obviously, to write good feedback, it is mandatory you take notes during the tal
 
 ## Example of good feedback
 
--------------------- Begin Comment Section --------------------
-
-Here are some pluses (+) and minuses (-) I found with your presentation:  
+Examples of positive reinforcing comments:
+\+ I liked how you motivated your project at the beginning of the talk.
+\+ Your explanation of technology X was clear and concise.  
+\+ Your slides were well-focused and well-titled.
+\+ Figure X really helped me with understanding Y concept.
 \+ You were engaging with the audience and mixing in some humor helped.  
-\+ You made good eye contact with the entire room.  
-\+ You spoke clearly and with good pacing.  
 \+ I could feel your excitement with the work that you did which was infectious.  
-\+ You explanation of technology X was clear and concise.  
+\+ You made good eye contact with the entire room.  
+
+Examples of constructive improvement comments:
+\- A high level overview would have helped since I had trouble grasping the big picture.
 \- You used technical terms like X and Y that you did not explain.  
-\- You had a picture on Slide 4 that you did not refer to and it was hard to understand why it was there.  
+\- You had Figure X that you did not refer to and it was hard to understand why it was there.  
 \- You didn't mention a bullet point that said "X is Y" that looked interesting.  
 \- Fonts were too small for my eyes!  
 \- You gave a long verbal explanation for X and I think a diagram would have made sense.  
-
-(End with a few feel good comments.)
-
--------------------- End Comment Section --------------------
-
-DISCLAIMER: This feedback does not pertain to any specific presenter.  It was cooked up for the sole purposes of demonstration.
