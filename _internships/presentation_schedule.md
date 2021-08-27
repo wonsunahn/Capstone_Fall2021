@@ -10,16 +10,15 @@ The presentations will be given in the order they are listed on the particular d
 
 ## WEEK 1 (Week of 27 AUG)
 
-* Introduction on syllabus and course requirements
-* [Lecture on giving a good presentation]()
+* Introduction to syllabus and course requirements
   
 ## WEEK 2 (Week of 3 SEP)
 
-* [Lecture on assertion evidence format]()
+* [Lecture on giving a good presentation]()
 
 ## WEEK 3 (Week of 10 SEP)
   
-* Student presentations
+* [Lecture on assertion evidence format]()
 
 ## WEEK 4 (Week of 17 SEP)
 
@@ -61,7 +60,7 @@ The presentations will be given in the order they are listed on the particular d
 
 * Student presentations
 
-## WEEK 14 (Week of 26 APR)
+## WEEK 14 (Week of 26 NOV)
 
 * Thanksgivig Break (NO CLASS)
 
