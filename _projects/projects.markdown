@@ -3,9 +3,10 @@ layout: page
 permalink: /projects/
 ---
 
-# Capstone Project List
+# Capstone Project List - WORK IN PROGRESS
 
-<!--SO FAR:
+<!--SO FAR: 4+6+3+3+ 3+3+3+2+2+2+4+?-->
+
 
 
 Please file your top THREE choices as an issue with a title beginning with PROJECT (will go over in class) by Wednesday (27 January) morning at 11:59 AM (i.e., right before noon). Please list them in the order that you prefer them.  You will be informed as to your project BY the next Capstone class on Friday (29 January). YOU MUST FILE AN ISSUE IN ORDER TO BE PLACED ON A PROJECT AND THUS GET CREDIT FOR THE COURSE!  YOU WILL NOT BE PLACED ON A PROJECT IF YOU DO NOT FILE AN ISSUE!
@@ -20,29 +21,159 @@ Note: Some of you may be working on private projects. Please file an issue on th
 
 ## Industry Capstone Projects
 
-### NetApp
+### NetApp - [TBD]({{site.baseurl}}/projects/pdfs/.pdf)
 
- 
+
 **About NetApp**
 
 NetApp is the Data Authority in the Hybrid Cloud.
 Throughout the world, leading organizations count on NetApp for software, systems, and services to manage and store their data. We help enterprises and service providers envision, deploy, and evolve their IT environments. Customers also benefit from our open collaboration with other technology leaders to create the specific solutions they need.  
-Our team is passionate about customer success. Our company culture and work environment support that dedication. Together with our global network of partners, we are united in one goal: to help our customers achieve the outcomes that matter most to them. To learn more, visit www.netapp.com. 
+Our team is passionate about customer success. Our company culture and work environment support that dedication. Together with our global network of partners, we are united in one goal: to help our customers achieve the outcomes that matter most to them. To learn more, visit www.netapp.com.
 The project is driven by the Scale Out Storage team which provides the file system infrastructure within the kernel to achieve high performing, scalable containers that are a key component of the NetApp Data Fabric architecture.
 
-### [Develop a kernel extension for an Open Source File System]({{site.baseurl}}/projects/pdfs/NetApp-SOS-Pitt-Capstone-Abstract-Spring-2021.pdf)
-
-
-### [CGI Client Onboarding Portal]({{site.baseurl}}/projects/pdfs/CGI-Capstone-Sprint-2021.pdf)
+### CGI - [TBD]({{site.baseurl}}/projects/pdfs/.pdf)
 
 **Note: NDA and/or IP agreement will need to be signed for this project.**
+
+### GreenSpace - together with IS more requirements needed
+
+TBD
+
+**Note: NDA and/or IP agreement will need to be signed for this project.**
+
+* Team Size: 3 students
+* POC: Chip Loving
+
+
+### Visimo -
+
+Our client runs a fertility consulting clinic and wishes to develop a web app for her clients to use that will improve both the clients’ experience and the effectiveness of the clinician. The app will survey the clients’ daily habits using a series of checklists, which will be customizable depending on the individual client’s needs. (For example, there may be a “base” survey that all clients take, and then an additional “diabetics” survey that clients with diabetes will take, and so on.) The app will then make recommendations about what habits need to change in order to optimize fertility, and will offer coaching, a place to record notes, and a dashboard for viewing metrics and analyzing progress.
+
+There will also be convenience features, such as the ability to scan barcodes on food products and automatically record and track the clients’ eating habits and nutrition, and ideally the ability to integrate with Health app in iOS, and track things like exercise, meditation and sleep.
+
+This will be a designed and built as a “progressive web app,” which is a cutting-edge class of web applications that is able to perform much of the functionality of a native mobile app, while still running through the browser as a traditional web app would and not requiring any sort of downloading or installation from an app store.  
+
+The actual process will involve:
+
+    - Wireframing the app with the client
+    - Designing and optimizing the UI and UX of the app
+    - A data modeling and software design/architecting phase
+    - The establishment of a project plan, with individual responsibilities, timelines and milestones
+    - Implementation and deployment
+
+As for the last point, we follow a CI/CD approach in our software projects, so that students will be exposed to this software development best practice, and learn how to work on a team that adheres to it. We will deliver a stripped-down, minimally viable product (MVP) very early in the process, so that the client can begin receiving value from our work as soon as possible, and then we will iterate from there, with frequent releases that each offer small upgrades in features and performance.
+
+The final product will be hosted by VISIMO and deployed on a Kubernetes cluster in our Azure cloud environment. As a result, students will also have a chance to learn about containerization using Docker, container orchestration via Kubernetes, and the overall process of deploying and maintaining a cloud-based web app.
+
+* Team Size: ? students
+* POC: TBD
+
 
 
 ## CS Faculty Projects
 
+
 ### RISC-V web based simulator for CS447
+
+
 
 * Team Size: 3 students
 * POC: David Wilkinson (wilkie) and Luis Oliveira
 
- -->
+
+
+
+### GUI for AppArmor
+
+Bill Garrison and Jack Ullery (a fellow student) have been working on a project this summer in which they are laying the foundation for a graphical interface for AppArmor, a Linux kernel extension that can enforce per-process access controls. AppArmor allows users to restrict apps from accessing resources they shouldn't need, and can be used to sandbox applications from one another as much as possible (with allow lists for the resources that are necessary). A graphical interface for this tool could behave somewhat like a modern firewall, allowing users to configure what's allowed vs. blocked after reviewing historical accesses.
+You will be collaborating closely with Jack which will guide the team with the knowledge he's already gained about how AppArmor works and how one configures it.
+This is a systems project (so it would be ideal to have completer CS1550!).
+Team size: 4–5 students
+POC: Bill Garrison (bill@cs.pitt.edu)
+
+
+
+### Pedestrian smart maps
+
+
+
+* Team Size: ? students
+* POC: Panos, Konstantinos, Aurora
+
+
+### Activity Recognition Data Collection Smartphone Application
+
+Machine learning models are commonly used to perform activity recognition from sensing data collected using smartphones.
+Typically, data is shared to the cloud, where the final model is trained.
+Recently, there has been a trend to train personalized models on smartphones without the need for sharing the data.  
+In this project, students will develop and enhance an activity recognition app on Android OS. Students will carry out the following tasks for this project.
+Download and install an activity recognition app
+Reproduce the results for training personalized activity model
+Enhance the app to enable labeling and logging of sensor data
+Implement extensions to visualize the data
+Write and execute test case to test the system
+
+* Team size: 2-3 students
+* POC: Stephen Lee
+
+### Web-based Image and Point cloud Annotation Tool
+Data annotation software is important for many computer vision projects.
+The goal of the project is to design a web-based 3D annotation tool. Students will design a web interface to visualize point cloud data.
+In addition, the tool will allow users to select, define and describe regions of the data.
+The software should also support loading and saving of annotations. Students should be familiar with HTML and javascript to carry out this project.
+
+* Team size: 2 students
+* POC: Stephen Lee
+
+
+### Studying Scheduling Behavior on Heterogeneous Memories
+
+Areas of Interest: Operating Systems, Computer Architecture
+Necessary/Required Skills: Knowledge of Linux and Python / Shell Script
+Desired Skills: C Language
+
+Heterogeneous memory systems have been recently adopted by hardware vendors to balance high capacity (provided by PMEM--persistent memory) and performance (offered by DRAM). Using recent OS support, as in Linux kernel 5.1+, the different types of memory (e.g., high-density/slow PMEM vs low-density/fast DRAM) can be seamlessly accessible by the CPU. A key challenge is to automatically allocate the application data to the most suitable type of memory. In this project, we will experimentally experiment with a newly released kernel patch (autonuma, see https://lwn.net/Articles/845102/). For this, we want to measure/instrument/inspect (using existing Linux kernel infrastructure) the decisions made by the data placement scheme (autonuma) in order to better understand their decisions.
+
+We envision the following (tentative) tasks for the project, with deadlines every 2 weeks, approximately:
+
+
+- Install specific patch on Linux in Chameleon Cloud (Already done, but it would be nice to learn!)
+- Emulate a Persistent Memory on a Chameleon Linux machine (See https://software.intel.com/content/www/us/en/develop/articles/how-to-emulate-persistent-memory-on-an-intel-architecture-server.html)
+- Create scripts or C code that will track online memory page migration and object allocations (e.g., https://linux.die.net/man/5/numa_maps)
+- Your software will identify which pages (objects) were migrated and identify which objects remained in their source allocations
+- Lastly, you will (hopefully automatically) generate and analyze data/plots summarizing the decisions made by autonuma for an application's allocations
+
+* Group Size: 1-2 students
+* POC: Diego Braga (dmoura@pitt.edu), Daniel Mossé (mosse@pitt.edu), Vinicius Petrucci (vpetrucci@pitt.edu)
+
+
+### Optimizing Web Browsing Energy Efficiency
+
+Areas of Interest: Operating Systems, Computer Architecture
+Important Skills: Knowledge of Linux, System Programming (C/C++), Python
+
+An ever-growing amount of mobile devices trying to stretch their battery life, in conjunction with increasingly complex web pages, create a delicate balancing act between energy efficiency and performance. Existing OS-based power management techniques designed to tackle this issue rely on generic system-level metrics that are unable to anticipate the complex behavior of a web browser, which can lead to energy inefficiency or poor user experience during web browsing activities.
+
+In this project, we propose a new power management approach that leverages application-level information to identify major phases in the web browser (Chromium in our study). We will monitor the behavior of the application at a finer granularity (compared to OS schemes). Based on runtime observations, we will modify the web browser's behavior to evaluate the effect of different hardware mappings (CPU type and speed) on performance/energy usage. Ultimately, we seek to design a better method of mapping application phases to appropriate hardware usage patterns. This is an ongoing project initiated by prior students and new students will be able to leverage and extend experimental infrastructures.
+
+We envision the following (tentative) tasks for the project, with deadlines every 2-3 weeks, approximately:
+
+- Instantiate the experimental platform on another set of machines
+- Extend and scale our Python script environment to match the resource capabilities of those new machines
+- Provide the adequate extended monitoring capability and configuration knobs to a Machine Learning scheme (another student working on this part) that will leverage such a new exposed environment
+- Run experiments and collect performance/power data for plotting, analysis, etc
+
+* Group Size: 1-2 students
+* POC: Vinicius Petrucci (vpetrucci@pitt.edu)
+
+### Web Apps to Support Community Enablement
+
+This team (3-4 CS students) will join the Digital Ambassadors project, a collaboration between SCI and the Hill District’s citizens and businesses.  The project’s overarching goal is to provide Hill District high school youth with opportunities to learn and apply digital skills. A hallmark of the program is these youth working as technology-focused interns in local businesses. This CS team will direct engage with the youth and businesses to provide technology know-how and horsepower to develop a new business or social engagement technology that can be used by these businesses and supported by the youth interns.  This team will lead the development of a mobile application or mobile-friendly reactive web application.  The team will engage with stakeholders to elicit functional requirements, present designs and prototypes for feedback, and deliver a working solution by the end of term.  This project provides unique experiences for a CS student to leverage their technical skills to address the Digital Divide in the Pittsburgh community.  The project will be supervised and support by Prof Biehl and Prof Farzan.
+
+* Group size: 3-4 students
+* POC: Jacob Biehl and Rosta Farzan ({biehl, rfarzan}@pitt.edu)
+
+### TBD
+
+* Group size: ? students
+* POC: Malihe Alikhani and Dmitriy Babichenko
