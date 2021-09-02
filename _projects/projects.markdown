@@ -31,13 +31,91 @@ Throughout the world, leading organizations count on NetApp for software, system
 Our team is passionate about customer success. Our company culture and work environment support that dedication. Together with our global network of partners, we are united in one goal: to help our customers achieve the outcomes that matter most to them. To learn more, visit www.netapp.com.
 The project is driven by the Scale Out Storage team which provides the file system infrastructure within the kernel to achieve high performing, scalable containers that are a key component of the NetApp Data Fabric architecture.
 
-### CGI - [TBD]({{site.baseurl}}/projects/pdfs/.pdf)
+### CGI - [Client Onboarding]({{site.baseurl}}/projects/pdfs/CGI.pdf)
+
+**Check PDF** 
+
+**Project Overview**
+To enhance and improve a client-onboarding portal that serves as an Onboarding and Knowledge Management solution, designed to make the process of onboarding new CGI members to project teams more efficient and effective. Students will work with a team of CGI experts to not only help solve this problem/challenge but also learn critical skills needed as they enter the workforce.
+
+**Project Details**
+
+The proposed Onboarding and Knowledge Management portal will achieve a couple of objectives:
+* Support a structured way for new team members to be onboarded to a project/team
+* Simplify the portability of the building and deployment of the application.
+* Automate workflows where project knowledge can be captured, shared, and archived on an ongoing basis
+
+The following non-exhaustive scenarios have been identified to achieve these objectives:
+* The ability to build and copy templates of onboarding tasks
+* Add ability to associate onboarding projects to client(s)
+* Improve the application portability by dockerizing the application
+* Improve the code quality using static code analysis from SonarQube
+
+The outcome of this Capstone Project would be a software solution that meets these objectives, along with its associated artifacts like architecture documentation, user personas, user journeys/workflows, UI/UX prototypes, software development environment setup, code documentation, testing artifacts, etc.
+
+Students should expect to learn about modern software-development techniques in an enterprise setting such as:
+* Design-thinking methodologies
+* Ideation and UI/UX rapid prototyping
+* Agile software development
+* Product and Project management
+* State-of-art technologies
+
+Students are expected to know or easily learn the following technologies:
+* Angular (TypeScript, HTML/CSS)
+* Spring Boot (Java)
+* Jsoup
+* Sonarcube
+* Docker
+* Git
+* MySQL
+* IntelliJ/VS Code
+* Trello
+
+
+* Team Size: 5/6 students
+* POC: Anthony DeLuca (anthony.deluca@cgi.com)
+
 
 **Note: NDA and/or IP agreement will need to be signed for this project.**
 
 ### GreenSpace - together with IS more requirements needed
 
-TBD
+**_About GreenSpace_**
+
+GreenSpace was conceived out of real-world frustrations with current software that is utilized in the green industry today. Because of that experience, we set forth to deliver a simple, intuitive, cost effective landscape platform that allows all sizes, types and parts of the organization to maximize value delivery.
+
+Our mission is to provide that do-everything-owner with the ability to provide autonomy to their employees knowing that there is a system in place that eliminates all the minutia of the day-to-day activities required to run the business. We want to let these organizations focus on their customers and the landscaping again; bringing back the nostalgia of having that pick-up truck, mower and the passion that they felt for this career in the first place.
+
+
+**_About the Project_**
+
+We would like to develop an intuitive-to-use application that allows landscaping companies (crew members, managers, administrators, etc) to perform time tracking, generate reports, allow manual scheduling, etc. As of now, the users of this application will be the landscaping companies.
+
+Features overview:  
+- Time Tracking 
+- Job Costing 
+- Scheduling
+- User Dashboard (if time permits)
+
+
+**_Initial System Requirements/Features_**
+
+[Current epics and features can be found here.](https://docs.google.com/document/d/1Rx-fiFhNaq1wS588-SJSk8nOJDwpGBcHehGBoRAcqyE/edit#)
+
+**_Interested in working on this project?_**
+
+This is a joint project between CS and DINS. That means that it is open for students from both departments to work on. Exciting, right?
+
+Here, what you should keep in mind if you are interested in working on this project:
+The development team (student) will use their program/method of choice to keep track of who is working on which epic and/or feature.
+Weekly client meetings: Students must find a weekly client meeting time that works for EVERYONE in the team.  If that is not possible, the weekly client meeting time becomes Tuesdays 4:00 pm - 5:00 pm EST (in room 411 IS Building - or through Zoom).
+Tools: The team must propose the frameworks/tools they will use in this project as part of the project proposal.
+Hosting: Pitt may be providing hosting capabilities via Azure if possible. However, GreenSpace can provide access to an AWS machine/environment for development if Azure is not available.
+CS 1980 students must be available to meet Tu/Th 4:00 - 5:15 (room 411 IS) throughout the whole Fall 2021 semester
+The CS midterm presentation is optional for IS students
+There will be a maximum of 6 team members in this project
+
+Still have questions?  Feel free to contact your class instructor.
 
 **Note: NDA and/or IP agreement will need to be signed for this project.**
 
@@ -45,7 +123,7 @@ TBD
 * POC: Chip Loving
 
 
-### Visimo -
+### Visimo
 
 Our client runs a fertility consulting clinic and wishes to develop a web app for her clients to use that will improve both the clients’ experience and the effectiveness of the clinician. The app will survey the clients’ daily habits using a series of checklists, which will be customizable depending on the individual client’s needs. (For example, there may be a “base” survey that all clients take, and then an additional “diabetics” survey that clients with diabetes will take, and so on.) The app will then make recommendations about what habits need to change in order to optimize fertility, and will offer coaching, a place to record notes, and a dashboard for viewing metrics and analyzing progress.
 
@@ -65,7 +143,7 @@ As for the last point, we follow a CI/CD approach in our software projects, so t
 
 The final product will be hosted by VISIMO and deployed on a Kubernetes cluster in our Azure cloud environment. As a result, students will also have a chance to learn about containerization using Docker, container orchestration via Kubernetes, and the overall process of deploying and maintaining a cloud-based web app.
 
-* Team Size: ? students
+* Team Size: 3/4 students
 * POC: TBD
 
 
@@ -75,10 +153,21 @@ The final product will be hosted by VISIMO and deployed on a Kubernetes cluster 
 
 ### RISC-V web based simulator for CS447
 
+For DECADES CS 447 was taught using MIPS assembly language. However, MIPS processors are not that common anymore (RIP PS and PS2) (they still live in network equipment though :).
+On the other hand, the RISC-V architecture (open-source) is gaining some momentum, and you can even buy some boards to have fun with it.
 
+We are still using MARS (which we all hate ;), but we want to push the development of an alternative that uses RISC-V. wilkie developed a web-based alternative, but it's still not ready for primetime: https://gitlab.com/wilkie/rawrs
+This tool is called RAWRS (RISC-V Assembler and Workable, Rewritable System) - it's an acronym it can mean whatever we want! - and it's a web-based tools (bye bye Java).
+
+The objective for this project is to develop this tool further to a point where it can be used for CS 447.
+- This includes making improvements to the CPU simulator we use (C development) to let students know when they don't follow conventions.
+- Adapt the website (Javascript development) to new functionality.
+- Fix any outstanding/detected bugs in the software.
+
+The tool is written in (modern) Javascript where we predict most of the development will be focused. But you will also have the opportunity to stretch your assembly muscles. As the RISC-V simulator is backed by a RISC-V kernel :D
 
 * Team Size: 3 students
-* POC: David Wilkinson (wilkie) and Luis Oliveira
+* POC: David Wilkinson (wilkie) and Luis Oliveira (loliveira@pitt.edu)
 
 
 
