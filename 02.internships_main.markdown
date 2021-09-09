@@ -37,10 +37,10 @@ emergency).
 
 ## Presentation organization
 
-* We will do a Doodle poll to decide on individual presentation dates at our first class (8/27).
-   * [Link to Doodle Poll](https://doodle.com/poll/zmpr78s7y3vqdet6)
+* The Doodle poll is over and here is the finalized schedule.  Please double check it!
+   * [Presentation Schedule]({{site.baseurl}}/internship_presentation_schedule)
 
-* Each student is expected to present for **5-6 minutes**. Q&A will happen
+* Each student is expected to present for **5 minutes**. Q&A will happen
   online over TopHat.  There will be a folder in TopHat for each presenter, and
 under it, a Q&A discussion section.
 
