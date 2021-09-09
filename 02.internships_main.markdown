@@ -37,8 +37,8 @@ emergency).
 
 ## Presentation organization
 
-* The Doodle poll is over and here is the finalized schedule.  Please double check it!
-   * [Presentation Schedule]({{site.baseurl}}/internship_presentation_schedule)
+* The Doodle poll is over and here is the finalized schedule.  Please double check that your name is there!
+   * [Presentation Schedule]({{site.baseurl}}/internship_presentation_schedule)  
 
 * Each student is expected to present for **5 minutes**. Q&A will happen
   online over TopHat.  There will be a folder in TopHat for each presenter, and
