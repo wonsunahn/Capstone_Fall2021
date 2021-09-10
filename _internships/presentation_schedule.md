@@ -42,6 +42,7 @@ The presentations will be given in the order they are listed on the particular d
 * Matthew Wildermuth
 * Philip Shenk
 * Justin Do
+* Sade Benjamin
 
 ## WEEK 6 (Week of 1 OCT)
 
