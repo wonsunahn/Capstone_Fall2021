@@ -22,7 +22,6 @@ The presentations will be given in the order they are listed on the particular d
 
 ## WEEK 4 (Week of 17 SEP)
 
-Student presentations: 
 * Madison Banaszak
 * Cristopher Story
 * Anthony Lucchitti
@@ -35,7 +34,6 @@ Student presentations:
 
 ## WEEK 5 (Week of 24 SEP)
 
-Student presentations: 
 * Brian Sostek
 * Alexander Yang
 * Martin Knuth
@@ -47,7 +45,6 @@ Student presentations:
 
 ## WEEK 6 (Week of 1 OCT)
 
-Student presentations: 
 * Jackson Frank
 * Eshan Parmar
 * James Vallay
@@ -60,7 +57,6 @@ Student presentations:
 
 ## WEEK 7 (Week of 8 OCT)
 
-Student presentations: 
 * Alexander Helfinstine
 * Ariana Sutanto
 * Nicholas Zullo
@@ -77,7 +73,6 @@ Student presentations:
 
 ## WEEK 9 (Week of 22 OCT)
 
-Student presentations: 
 * Nicholas Harvey
 * Thomas Potter
 * Luke Barrett
@@ -90,7 +85,6 @@ Student presentations:
 
 ## WEEK 10 (Week of 29 OCT)
 
-Student presentations: 
 * Mateen Kasim
 * Caela Go
 * Gordon Lu
@@ -103,7 +97,6 @@ Student presentations:
 
 ## WEEK 11 (Week of 5 NOV)
 
-Student presentations: 
 * Sareena Sheth
 * Sherryl Augustine
 * Justin Karli
@@ -116,7 +109,6 @@ Student presentations:
 
 ## WEEK 12 (Week of 12 NOV)
 
-Student presentations: 
 * Emma Knaub
 * Sravani Yagalla
 * Adam Mattioli
@@ -129,7 +121,6 @@ Student presentations:
 
 ## WEEK 13 (Week of 19 NOV)
 
-Student presentations: 
 * David Ladeji
 * Brendan Stang
 * Aaron Reuter
@@ -146,7 +137,6 @@ Student presentations:
 
 ## WEEK 15 (Week of 3 DEC)
 
-Student presentations: 
 * Grant Smith
 * Sharon You
 * Zachary Heistand
@@ -159,8 +149,8 @@ Student presentations:
 
 ## WEEK 16 (Week of 10 DEC)
 
-Student presentations: 
 * Junshang Jia
 * Jeremiah Machado
 * Elliot Snitzer
 * Casey Park
+* Zhen Wu
