@@ -22,19 +22,54 @@ The presentations will be given in the order they are listed on the particular d
 
 ## WEEK 4 (Week of 17 SEP)
 
-* Student presentations
+Student presentations: 
+* Madison Banaszak
+* Cristopher Story
+* Anthony Lucchitti
+* Isaiah Gathala
+* Adam Starr
+* Spencer Miller
+* Varun Venkatesh
+* Jason Kozarsky
+* Landon Higinbotham
 
 ## WEEK 5 (Week of 24 SEP)
 
-* Student presentations
+Student presentations: 
+* Brian Sostek
+* Alexander Yang
+* Martin Knuth
+* Paul Lewis
+* Emma Howard
+* Matthew Wildermuth
+* Philip Shenk
+* Justin Do
 
 ## WEEK 6 (Week of 1 OCT)
 
-* Student presentations
+Student presentations: 
+* Jackson Frank
+* Eshan Parmar
+* James Vallay
+* Mikey Morrissey
+* Alexander Kwiatkowski
+* Diana Kocsis
+* Jake Baumbaugh
+* Alexi Green
+* Urjeet Deshmukh
 
 ## WEEK 7 (Week of 8 OCT)
 
-* Student presentations
+Student presentations: 
+* Alexander Helfinstine
+* Ariana Sutanto
+* Nicholas Zullo
+* Khalil McFarlane
+* Davon Allensworth
+* Zachary Stata
+* Joffin Manjaly
+* Benjamin Rucker
+* Hussam Almarzooq
 
 ## WEEK 8 (Week of 15 OCT)
 
@@ -42,23 +77,68 @@ The presentations will be given in the order they are listed on the particular d
 
 ## WEEK 9 (Week of 22 OCT)
 
-* Student presentations
+Student presentations: 
+* Nicholas Harvey
+* Thomas Potter
+* Luke Barrett
+* Kaleb Raymond
+* Emily Miller
+* Andrew Nguyen
+* Bilal Riaz
+* Meghan Byrne
+* Marshall Lentz
 
 ## WEEK 10 (Week of 29 OCT)
 
-* Student presentations
+Student presentations: 
+* Mateen Kasim
+* Caela Go
+* Gordon Lu
+* Hunter Schwartz
+* Andrew Imredy
+* Nikos Nikolopoulos
+* Patrick Roche
+* Christopher Flores
+* Samantha Lavrinc
 
 ## WEEK 11 (Week of 5 NOV)
 
-* Student presentations
+Student presentations: 
+* Sareena Sheth
+* Sherryl Augustine
+* Justin Karli
+* Prateek Jukalkar
+* Bhamini Sundararaman
+* Cameron Rischard
+* Adam Karl
+* Zohaib Wasim
+* Connor Robinette
 
 ## WEEK 12 (Week of 12 NOV)
 
-* Student presentations
+Student presentations: 
+* Emma Knaub
+* Sravani Yagalla
+* Adam Mattioli
+* Sean Linton
+* Giovanni Meiser
+* Aaron Mathew
+* Patrick Brown
+* Marissa Garfinkle
+* Sushruti Bansod
 
 ## WEEK 13 (Week of 19 NOV)
 
-* Student presentations
+Student presentations: 
+* David Ladeji
+* Brendan Stang
+* Aaron Reuter
+* Emma Akbari
+* Brandon Kowalecki
+* Ryan Durkoske
+* Jacob Enriquez
+* Kent Kaing
+* Kunal Gandhi
 
 ## WEEK 14 (Week of 26 NOV)
 
@@ -66,8 +146,21 @@ The presentations will be given in the order they are listed on the particular d
 
 ## WEEK 15 (Week of 3 DEC)
 
-* Student presentations
+Student presentations: 
+* Grant Smith
+* Sharon You
+* Zachary Heistand
+* Eyasped Challa
+* Colby King
+* Alexander Baur
+* Evan Tall
+* Trae Yelovich
+* Gregory Doyle
 
 ## WEEK 16 (Week of 10 DEC)
 
-* Student presentations
+Student presentations: 
+* Junshang Jia
+* Jeremiah Machado
+* Elliot Snitzer
+* Casey Park
