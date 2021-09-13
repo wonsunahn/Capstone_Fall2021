@@ -155,4 +155,5 @@ The presentations will be given in the order they are listed on the particular d
 * Elliot Snitzer
 * Casey Park
 * Shay Rounsville
+* Caleb Beichner
 * Zhen Wu
