@@ -41,7 +41,7 @@ The presentations will be given in the order they are listed on the particular d
 * Emma Howard
 * Matthew Wildermuth
 * Philip Shenk
-* Justin Do
+* Eyasped Challa
 * Sade Benjamin
 
 ## WEEK 6 (Week of 1 OCT)
@@ -141,7 +141,7 @@ The presentations will be given in the order they are listed on the particular d
 * Grant Smith
 * Sharon You
 * Zachary Heistand
-* Eyasped Challa
+* Justin Do
 * Colby King
 * Alexander Baur
 * Evan Tall
