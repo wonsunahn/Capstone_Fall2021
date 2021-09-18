@@ -51,7 +51,7 @@ The presentations will be given in the order they are listed on the particular d
 * James Vallay
 * Mikey Morrissey
 * Alexander Kwiatkowski
-* Diana Kocsis
+* Sravani Yagalla
 * Jake Baumbaugh
 * Alexi Green
 * Urjeet Deshmukh
@@ -111,7 +111,7 @@ The presentations will be given in the order they are listed on the particular d
 ## WEEK 12 (Week of 12 NOV)
 
 * Emma Knaub
-* Sravani Yagalla
+* Diana Kocsis
 * Adam Mattioli
 * Sean Linton
 * Giovanni Meiser
