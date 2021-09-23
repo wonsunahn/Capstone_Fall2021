@@ -134,7 +134,7 @@ The presentations will be given in the order they are listed on the particular d
 
 ## WEEK 14 (Week of 26 NOV)
 
-* Thanksgivig Break (NO CLASS)
+* Thanksgiving Break (NO CLASS)
 
 ## WEEK 15 (Week of 3 DEC)
 
