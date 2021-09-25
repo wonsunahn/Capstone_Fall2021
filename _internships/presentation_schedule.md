@@ -40,7 +40,6 @@ The presentations will be given in the order they are listed on the particular d
 * Paul Lewis
 * Emma Howard
 * Matthew Wildermuth
-* Philip Shenk
 * Eyasped Challa
 * Sade Benjamin
 
@@ -55,6 +54,7 @@ The presentations will be given in the order they are listed on the particular d
 * Jake Baumbaugh
 * Alexi Green
 * Urjeet Deshmukh
+* Philip Shenk
 
 ## WEEK 7 (Week of 8 OCT)
 
