@@ -40,8 +40,6 @@ The presentations will be given in the order they are listed on the particular d
 * Paul Lewis
 * Emma Howard
 * Matthew Wildermuth
-* Eyasped Challa
-* Sade Benjamin
 
 ## WEEK 6 (Week of 1 OCT)
 
@@ -67,6 +65,7 @@ The presentations will be given in the order they are listed on the particular d
 * Joffin Manjaly
 * Benjamin Rucker
 * Hussam Almarzooq
+* Sade Benjamin
 
 ## WEEK 8 (Week of 15 OCT)
 
@@ -83,6 +82,7 @@ The presentations will be given in the order they are listed on the particular d
 * Bilal Riaz
 * Meghan Byrne
 * Marshall Lentz
+* Eyasped Challa
 
 ## WEEK 10 (Week of 29 OCT)
 
