@@ -22,7 +22,6 @@ The presentations will be given in the order they are listed on the particular d
 
 ## WEEK 4 (Week of 17 SEP)
 
-* Madison Banaszak
 * Cristopher Story
 * Anthony Lucchitti
 * Isaiah Gathala
@@ -95,6 +94,7 @@ The presentations will be given in the order they are listed on the particular d
 * Patrick Roche
 * Christopher Flores
 * Samantha Lavrinc
+* Madison Banaszak
 
 ## WEEK 11 (Week of 5 NOV)
 
