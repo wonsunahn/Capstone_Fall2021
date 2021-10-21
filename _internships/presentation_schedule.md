@@ -72,10 +72,10 @@ The presentations will be given in the order they are listed on the particular d
 
 ## WEEK 9 (Week of 22 OCT)
 
-* Nicholas Harvey
+* Kaleb Raymond
 * Thomas Potter
 * Luke Barrett
-* Kaleb Raymond
+* Nicholas Harvey
 * Emily Miller
 * Andrew Nguyen
 * Bilal Riaz
