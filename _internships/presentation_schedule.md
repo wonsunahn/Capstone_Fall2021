@@ -129,7 +129,6 @@ The presentations will be given in the order they are listed on the particular d
 * Brandon Kowalecki
 * Ryan Durkoske
 * Jacob Enriquez
-* Kent Kaing
 * Kunal Gandhi
 
 ## WEEK 14 (Week of 26 NOV)
@@ -154,7 +153,7 @@ The presentations will be given in the order they are listed on the particular d
 * Jeremiah Machado
 * Elliot Snitzer
 * Casey Park
-* Shay Rounsville
+* Kent Kaing
 * Caleb Beichner
 * Kiran Pawar
 * Zhen Wu
