@@ -129,6 +129,7 @@ The presentations will be given in the order they are listed on the particular d
 * Brandon Kowalecki
 * Ryan Durkoske
 * Jacob Enriquez
+* Saadiq Jones
 * Kunal Gandhi
 
 ## WEEK 14 (Week of 26 NOV)
