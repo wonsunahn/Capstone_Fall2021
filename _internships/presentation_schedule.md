@@ -143,10 +143,9 @@ The presentations will be given in the order they are listed on the particular d
 * Zachary Heistand
 * Justin Do
 * Colby King
-* Alexander Baur
-* Evan Tall
 * Trae Yelovich
 * Gregory Doyle
+* Zhen Wu
 
 ## WEEK 16 (Week of 10 DEC)
 
@@ -156,5 +155,5 @@ The presentations will be given in the order they are listed on the particular d
 * Casey Park
 * Caleb Beichner
 * Kiran Pawar
-* Zhen Wu
+* Evan Tall
 * Samyuktha Lokanandi
