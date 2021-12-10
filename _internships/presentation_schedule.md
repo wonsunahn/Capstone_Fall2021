@@ -150,7 +150,6 @@ The presentations will be given in the order they are listed on the particular d
 ## WEEK 16 (Week of 10 DEC)
 
 * Kiran Pawar
-* Samyuktha Lokanandi
 * Junshang Jia
 * Jeremiah Machado
 * Elliot Snitzer
