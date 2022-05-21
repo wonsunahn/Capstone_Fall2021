@@ -22,7 +22,6 @@ The presentations will be given in the order they are listed on the particular d
 
 ## WEEK 4 (Week of 17 SEP)
 
-* Madison Banaszak
 * Cristopher Story
 * Anthony Lucchitti
 * Isaiah Gathala
@@ -40,9 +39,6 @@ The presentations will be given in the order they are listed on the particular d
 * Paul Lewis
 * Emma Howard
 * Matthew Wildermuth
-* Philip Shenk
-* Eyasped Challa
-* Sade Benjamin
 
 ## WEEK 6 (Week of 1 OCT)
 
@@ -51,10 +47,11 @@ The presentations will be given in the order they are listed on the particular d
 * James Vallay
 * Mikey Morrissey
 * Alexander Kwiatkowski
-* Diana Kocsis
+* Sravani Yagalla
 * Jake Baumbaugh
 * Alexi Green
 * Urjeet Deshmukh
+* Philip Shenk
 
 ## WEEK 7 (Week of 8 OCT)
 
@@ -67,6 +64,7 @@ The presentations will be given in the order they are listed on the particular d
 * Joffin Manjaly
 * Benjamin Rucker
 * Hussam Almarzooq
+* Sade Benjamin
 
 ## WEEK 8 (Week of 15 OCT)
 
@@ -74,15 +72,16 @@ The presentations will be given in the order they are listed on the particular d
 
 ## WEEK 9 (Week of 22 OCT)
 
-* Nicholas Harvey
+* Kaleb Raymond
 * Thomas Potter
 * Luke Barrett
-* Kaleb Raymond
+* Nicholas Harvey
 * Emily Miller
 * Andrew Nguyen
 * Bilal Riaz
 * Meghan Byrne
 * Marshall Lentz
+* Eyasped Challa
 
 ## WEEK 10 (Week of 29 OCT)
 
@@ -95,6 +94,7 @@ The presentations will be given in the order they are listed on the particular d
 * Patrick Roche
 * Christopher Flores
 * Samantha Lavrinc
+* Madison Banaszak
 
 ## WEEK 11 (Week of 5 NOV)
 
@@ -111,7 +111,7 @@ The presentations will be given in the order they are listed on the particular d
 ## WEEK 12 (Week of 12 NOV)
 
 * Emma Knaub
-* Sravani Yagalla
+* Diana Kocsis
 * Adam Mattioli
 * Sean Linton
 * Giovanni Meiser
@@ -129,12 +129,12 @@ The presentations will be given in the order they are listed on the particular d
 * Brandon Kowalecki
 * Ryan Durkoske
 * Jacob Enriquez
-* Kent Kaing
+* Saadiq Jones
 * Kunal Gandhi
 
 ## WEEK 14 (Week of 26 NOV)
 
-* Thanksgivig Break (NO CLASS)
+* Thanksgiving Break (NO CLASS)
 
 ## WEEK 15 (Week of 3 DEC)
 
@@ -143,17 +143,16 @@ The presentations will be given in the order they are listed on the particular d
 * Zachary Heistand
 * Justin Do
 * Colby King
-* Alexander Baur
-* Evan Tall
 * Trae Yelovich
 * Gregory Doyle
+* Zhen Wu
 
 ## WEEK 16 (Week of 10 DEC)
 
+* Kiran Pawar
 * Junshang Jia
 * Jeremiah Machado
 * Elliot Snitzer
 * Casey Park
-* Shay Rounsville
 * Caleb Beichner
-* Zhen Wu
+* Evan Tall
